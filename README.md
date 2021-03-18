@@ -1,2 +1,3 @@
-# -5
+# Yampolskiy Pmi 3-1
 Python
+30 Вариант
